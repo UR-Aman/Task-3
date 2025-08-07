@@ -31,7 +31,7 @@ pip install requests beautifulsoup4
 
 ## open the Headlines Selector.py in vs code and run
 
-1. Input the public news url
-2. Input the headline tags (h2,h3,title)
+1. Enter the public news url (Example- https://www.bbc.com/news)
+2. Enter the headline tags (h2,h3,title)
 
 
